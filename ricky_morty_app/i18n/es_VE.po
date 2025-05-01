@@ -1,0 +1,215 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ricky_morty_app
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-30 17:25+0000\n"
+"PO-Revision-Date: 2023-12-30 17:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: ricky_morty_app
+#: model_terms:ir.ui.view,arch_db:ricky_morty_app.rick_morty_characters_view_kanban
+msgid ""
+"<i class=\"fa fa-circle\" role=\"img\" aria-label=\"Invalid\" "
+"title=\"Invalid\"/> Status:"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model_terms:ir.ui.view,arch_db:ricky_morty_app.rick_morty_characters_view_kanban
+msgid "<i class=\"fa fa-circle\" role=\"img\" aria-label=\"Ok\" title=\"Ok\"/> Status:"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model_terms:ir.ui.view,arch_db:ricky_morty_app.rick_morty_characters_view_kanban
+msgid ""
+"<i class=\"fa fa-circle\" role=\"img\" aria-label=\"unknown\" "
+"title=\"unknown\"/> Status:"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields.selection,name:ricky_morty_app.selection__rick_morty_characters__characters_status__alive
+msgid "Alive"
+msgstr "Vivo"
+
+#. module: ricky_morty_app
+#: model:ir.actions.server,name:ricky_morty_app.characters_data_cron_ir_actions_server
+#: model:ir.cron,cron_name:ricky_morty_app.characters_data_cron
+msgid "Characters Data"
+msgstr "Data de Personajes"
+
+#. module: ricky_morty_app
+#. odoo-python
+#: code:addons/ricky_morty_app/models/rick_morty.py:0
+#: code:addons/ricky_morty_app/models/rick_morty.py:0
+#, python-format
+msgid "Connection Error: %s"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields.selection,name:ricky_morty_app.selection__rick_morty_characters__characters_status__dead
+msgid "Dead"
+msgstr "Muerto"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:res.groups,name:ricky_morty_app.group_evil_morty
+msgid "EvilMorty"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields.selection,name:ricky_morty_app.selection__rick_morty_characters__characters_gender__female
+msgid "Female"
+msgstr "Femenino"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__characters_gender
+msgid "Gender"
+msgstr "Genero"
+
+#. module: ricky_morty_app
+#: model_terms:ir.ui.view,arch_db:ricky_morty_app.rick_morty_characters_view_kanban
+msgid "Gender:"
+msgstr "Genero"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields.selection,name:ricky_morty_app.selection__rick_morty_characters__characters_gender__genderless
+msgid "Genderless"
+msgstr "Sin género"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__id
+msgid "ID"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__characters_id
+msgid "Id"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__characters_image
+msgid "Image"
+msgstr "Imagen"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__image_url
+msgid "Image URL"
+msgstr "Imagen"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__characters_location
+msgid "Location"
+msgstr "Localización"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields.selection,name:ricky_morty_app.selection__rick_morty_characters__characters_gender__male
+msgid "Male"
+msgstr "Masculino"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__characters_name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__characters_origin
+msgid "Origin"
+msgstr "Origen"
+
+#. module: ricky_morty_app
+#: model:ir.model,name:ricky_morty_app.model_rick_morty_characters
+msgid "Rick Morty Characters"
+msgstr "Rick y Morty Personajes"
+
+#. module: ricky_morty_app
+#: model:ir.ui.menu,name:ricky_morty_app.characters
+msgid "Rick and Morty"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:res.groups,name:ricky_morty_app.group_ricky_rol
+msgid "RickyRol"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model_terms:ir.ui.view,arch_db:ricky_morty_app.rick_morty_characters_view_kanban
+msgid "Specie:"
+msgstr "Especie"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__characters_species
+msgid "Species"
+msgstr "Especie"
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__characters_status
+msgid "Status"
+msgstr "Estado"
+
+#. module: ricky_morty_app
+#: model:res.groups,name:ricky_morty_app.group_stupid_jerry
+msgid "StupidJerry"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:res.groups,name:ricky_morty_app.group_summer_dog
+msgid "SummerDog"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields,field_description:ricky_morty_app.field_rick_morty_characters__characters_type
+msgid "Type"
+msgstr "Tipo"
+
+#. module: ricky_morty_app
+#: model_terms:ir.ui.view,arch_db:ricky_morty_app.rick_morty_characters_view_kanban
+msgid "Type:"
+msgstr "Tipo"
+
+#. module: ricky_morty_app
+#: model:ir.actions.act_window,name:ricky_morty_app.action_rick_morty
+msgid "rick and morty"
+msgstr ""
+
+#. module: ricky_morty_app
+#: model:ir.model.fields.selection,name:ricky_morty_app.selection__rick_morty_characters__characters_gender__unknown
+#: model:ir.model.fields.selection,name:ricky_morty_app.selection__rick_morty_characters__characters_status__unknown
+msgid "unknown"
+msgstr "Desconocido"

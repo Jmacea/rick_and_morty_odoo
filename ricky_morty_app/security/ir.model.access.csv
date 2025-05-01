@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+"access_rick_morty_characters","rick_morty_characters","model_rick_morty_characters","base.group_user",1,1,1,1
+"access_rick_morty_ricky_rol","rick_morty_ricky_rol","model_rick_morty_characters","group_ricky_rol",1,1,1,1
+"access_rick_morty_evil_morty","rick_morty_evil_morty","model_rick_morty_characters","group_evil_morty",1,0,1,1
+"access_rick_morty_summer_dog","rick_morty_summer_dog","model_rick_morty_characters","group_summer_dog",1,1,1,0
+"access_rick_morty_stupid_jerry","rick_morty_stupid_jerry","model_rick_morty_characters","group_stupid_jerry",1,0,0,0
